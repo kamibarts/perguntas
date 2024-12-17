@@ -1,0 +1,37 @@
+
+Aqui estão 10 perguntas e respostas curtas sobre MySQL, HTML, CSS e Banco de Dados:
+
+MySQL
+Pergunta: O que é um índice composto?
+
+Resposta: Um índice que usa mais de uma coluna para otimizar buscas em múltiplas colunas.
+Pergunta: O que é normalização?
+
+Resposta: Processo de organizar dados para reduzir redundância e dependência.
+Pergunta: Qual a diferença entre INNER JOIN e LEFT JOIN?
+
+Resposta: INNER JOIN retorna apenas correspondências, enquanto LEFT JOIN retorna todas as linhas da tabela à esquerda, mesmo sem correspondência.
+Pergunta: Quando usar TEXT ao invés de VARCHAR?
+
+Resposta: Use TEXT para armazenar grandes blocos de texto, quando o tamanho é imprevisível.
+Pergunta: O que faz o comando COMMIT?
+
+Resposta: Confirma as alterações feitas em uma transação no banco de dados.
+HTML
+Pergunta: O que faz a tag <meta>?
+
+Resposta: Define informações de metadados, como descrição e palavras-chave para SEO.
+Pergunta: Qual a diferença entre <div> e <section>?
+
+Resposta: <div> é genérico, enquanto <section> tem significado semântico, representando uma área temática.
+Pergunta: O que faz o atributo target="_blank" em um link?
+
+Resposta: Abre o link em uma nova aba ou janela.
+CSS
+Pergunta: Qual a diferença entre Flexbox e Grid?
+
+Resposta: Flexbox é para layouts unidimensionais; Grid é para layouts bidimensionais.
+Pergunta: Quando usar id e class no CSS?
+
+Resposta: Use id para um único elemento e class para múltiplos elementos.
+
